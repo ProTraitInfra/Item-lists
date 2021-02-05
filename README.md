@@ -9,7 +9,7 @@ Here you will find the installation/set-up guide for the version control of the 
 - Open GitHub Desktop
 - Click File --> Clone repository
 - Select tab "URL"
-- Paste "https://gitlab.com/UM-CDS/protrait/data-element-lists.git" in text field under "Repository URL or GitHub username and repository
+- Paste "https://github.com/ProTraitInfra/Item-lists.git" in text field under "Repository URL or GitHub username and repository
 - Set "local path". This will be the folder in which all documents are stored on your computer.
 - Click "Clone"
 - If asked login with your Git**Lab** username and password.
