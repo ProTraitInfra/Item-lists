@@ -1,3 +1,9 @@
+# OUTDATED REPOSITORY --- DO NOT USE ---
+Use the Protrait Items repository instead[https://github.com/ProTraitInfra/Protrait-Items/]
+
+
+
+
 # Version control of data element lists
 Here you will find the installation/set-up guide for the version control of the **ProTrait** data element lists
 
